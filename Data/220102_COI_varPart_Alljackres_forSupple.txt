@@ -1,0 +1,325 @@
+Parameter	Cell type	Variance explained	Lower 95percentile	Upper 95percentile	Pjk	Bonferonni-corrected Pjk
+Overall disease activity	Naive CD4	0.044	0.041	0.048	  1	  1
+Overall disease activity	Mem CD4	0.067	0.065	0.072	  0	  0
+Overall disease activity	Th1	0.12	0.12	0.13	  0	  0
+Overall disease activity	Th2	0.039	0.035	0.044	  1	  1
+Overall disease activity	Th17	0.045	0.041	0.048	  1	  1
+Overall disease activity	Tfh	0.06	0.056	0.064	0.8	  1
+Overall disease activity	Fr. I nTreg	0.041	0.038	0.043	  1	  1
+Overall disease activity	Fr. II eTreg	0.046	0.043	0.05	  1	  1
+Overall disease activity	Fr. III T	0.046	0.044	0.048	  1	  1
+Overall disease activity	Naive CD8	0.058	0.055	0.063	0.92	  1
+Overall disease activity	CM CD8	0.041	0.037	0.048	  1	  1
+Overall disease activity	EM CD8	0.11	0.1	0.11	  0	  0
+Overall disease activity	TEMRA CD8	0.096	0.092	0.1	  0	  0
+Overall disease activity	NK	0.09	0.086	0.096	  0	  0
+Overall disease activity	Naive B	0.043	0.041	0.047	  1	  1
+Overall disease activity	USM B	0.03	0.029	0.032	  1	  1
+Overall disease activity	SM B	0.043	0.041	0.046	  1	  1
+Overall disease activity	DN B	0.023	0.022	0.025	  1	  1
+Overall disease activity	Plasmablast	0.097	0.093	0.1	  0	  0
+Overall disease activity	CL Mono	0.17	0.16	0.17	  0	  0
+Overall disease activity	CD16p Mono	0.16	0.15	0.16	  0	  0
+Overall disease activity	Int Mono	0.094	0.09	0.098	  0	  0
+Overall disease activity	NC Mono	0.092	0.088	0.099	  0	  0
+Overall disease activity	mDC	0.069	0.065	0.074	  0	  0
+Overall disease activity	pDC	0.061	0.057	0.065	0.51	  1
+Overall disease activity	Neu	0.15	0.15	0.16	  0	  0
+Overall disease activity	LDG	0.11	0.1	0.12	  0	  0
+Constitutional	Naive CD4	0.014	0.012	0.018	0.95	  1
+Constitutional	Mem CD4	0.022	0.019	0.024	0.0074	0.2
+Constitutional	Th1	0.039	0.03	0.051	  0	  0
+Constitutional	Th2	0.017	0.013	0.02	0.2	  1
+Constitutional	Th17	0.014	0.0099	0.019	0.92	  1
+Constitutional	Tfh	0.014	0.0092	0.018	0.93	  1
+Constitutional	Fr. I nTreg	0.019	0.017	0.022	0.026	0.71
+Constitutional	Fr. II eTreg	0.013	0.01	0.016	0.98	  1
+Constitutional	Fr. III T	0.024	0.018	0.029	0.017	0.45
+Constitutional	Naive CD8	0.017	0.016	0.02	0.39	  1
+Constitutional	CM CD8	0.01	0.0086	0.013	  1	  1
+Constitutional	EM CD8	0.0027	0.002	0.0063	  1	  1
+Constitutional	TEMRA CD8	0.018	0.014	0.023	0.19	  1
+Constitutional	NK	0.053	0.046	0.059	  0	  0
+Constitutional	Naive B	0.0084	0.0065	0.012	0.99	  1
+Constitutional	USM B	0.0027	0.0017	0.0085	  1	  1
+Constitutional	SM B	0.012	0.0091	0.015	0.99	  1
+Constitutional	DN B	0.0058	0.0045	0.0076	  1	  1
+Constitutional	Plasmablast	2.1e-08	1.8e-12	0.0037	  1	  1
+Constitutional	CL Mono	0.031	0.026	0.036	  0	  0
+Constitutional	CD16p Mono	0.021	0.017	0.025	0.015	0.4
+Constitutional	Int Mono	0.034	0.031	0.038	  0	  0
+Constitutional	NC Mono	0.014	0.0097	0.018	0.94	  1
+Constitutional	mDC	0.024	0.02	0.03	  0	  0
+Constitutional	pDC	0.034	0.03	0.039	  0	  0
+Constitutional	Neu	0.027	0.024	0.034	  0	  0
+Constitutional	LDG	0.013	0.0088	0.016	0.98	  1
+Mucocutaneous	Naive CD4	0.02	0.017	0.022	0.96	  1
+Mucocutaneous	Mem CD4	0.022	0.02	0.024	0.56	  1
+Mucocutaneous	Th1	0.052	0.045	0.058	  0	  0
+Mucocutaneous	Th2	0.022	0.019	0.025	0.59	  1
+Mucocutaneous	Th17	0.023	0.021	0.028	0.15	  1
+Mucocutaneous	Tfh	0.029	0.025	0.034	  0	  0
+Mucocutaneous	Fr. I nTreg	0.018	0.015	0.021	0.99	  1
+Mucocutaneous	Fr. II eTreg	0.015	0.013	0.018	  1	  1
+Mucocutaneous	Fr. III T	0.0073	0.0054	0.0099	  1	  1
+Mucocutaneous	Naive CD8	0.026	0.023	0.029	0.015	0.4
+Mucocutaneous	CM CD8	0.025	0.021	0.032	0.077	  1
+Mucocutaneous	EM CD8	0.037	0.032	0.043	  0	  0
+Mucocutaneous	TEMRA CD8	0.032	0.029	0.036	  0	  0
+Mucocutaneous	NK	0.023	0.02	0.026	0.24	  1
+Mucocutaneous	Naive B	0.009	0.0059	0.012	  1	  1
+Mucocutaneous	USM B	0.01	0.0071	0.015	  1	  1
+Mucocutaneous	SM B	0.014	0.012	0.016	  1	  1
+Mucocutaneous	DN B	0.0071	0.0059	0.0087	  1	  1
+Mucocutaneous	Plasmablast	0.021	0.017	0.024	0.82	  1
+Mucocutaneous	CL Mono	0.021	0.018	0.026	0.71	  1
+Mucocutaneous	CD16p Mono	0.035	0.031	0.041	  0	  0
+Mucocutaneous	Int Mono	0.023	0.02	0.027	0.15	  1
+Mucocutaneous	NC Mono	0.046	0.04	0.053	  0	  0
+Mucocutaneous	mDC	0.012	0.0093	0.019	  1	  1
+Mucocutaneous	pDC	0.016	0.013	0.019	0.99	  1
+Mucocutaneous	Neu	0.032	0.027	0.037	  0	  0
+Mucocutaneous	LDG	0.017	0.013	0.022	0.97	  1
+Musculoskeletal	Naive CD4	0.013	0.013	0.014	  1	  1
+Musculoskeletal	Mem CD4	0.011	0.0096	0.013	  1	  1
+Musculoskeletal	Th1	0.023	0.018	0.028	0.44	  1
+Musculoskeletal	Th2	0.011	0.01	0.012	  1	  1
+Musculoskeletal	Th17	0.011	0.0098	0.014	  1	  1
+Musculoskeletal	Tfh	0.017	0.016	0.021	0.99	  1
+Musculoskeletal	Fr. I nTreg	0.016	0.013	0.018	  1	  1
+Musculoskeletal	Fr. II eTreg	0.0081	0.0065	0.0095	  1	  1
+Musculoskeletal	Fr. III T	0.013	0.01	0.016	0.99	  1
+Musculoskeletal	Naive CD8	0.018	0.015	0.02	  1	  1
+Musculoskeletal	CM CD8	0.0075	0.0062	0.0095	  1	  1
+Musculoskeletal	EM CD8	0.045	0.039	0.053	  0	  0
+Musculoskeletal	TEMRA CD8	0.04	0.035	0.044	  0	  0
+Musculoskeletal	NK	0.036	0.032	0.04	  0	  0
+Musculoskeletal	Naive B	0.0078	0.0065	0.0096	  1	  1
+Musculoskeletal	USM B	0.005	0.0036	0.0062	  1	  1
+Musculoskeletal	SM B	0.025	0.021	0.027	0.33	  1
+Musculoskeletal	DN B	0.011	0.0098	0.012	  1	  1
+Musculoskeletal	Plasmablast	0.053	0.046	0.056	  0	  0
+Musculoskeletal	CL Mono	0.063	0.057	0.069	  0	  0
+Musculoskeletal	CD16p Mono	0.06	0.055	0.066	  0	  0
+Musculoskeletal	Int Mono	0.045	0.04	0.049	  0	  0
+Musculoskeletal	NC Mono	0.033	0.028	0.038	  0	  0
+Musculoskeletal	mDC	0.036	0.033	0.041	  0	  0
+Musculoskeletal	pDC	0.022	0.018	0.027	0.6	  1
+Musculoskeletal	Neu	0.035	0.029	0.04	  0	  0
+Musculoskeletal	LDG	0.034	0.03	0.037	  0	  0
+Renal	Naive CD4	0.01	0.0083	0.012	  1	  1
+Renal	Mem CD4	0.033	0.031	0.037	  0	  0
+Renal	Th1	0.043	0.035	0.048	  0	  0
+Renal	Th2	0.025	0.023	0.028	0.96	  1
+Renal	Th17	0.022	0.021	0.025	  1	  1
+Renal	Tfh	0.016	0.015	0.019	  1	  1
+Renal	Fr. I nTreg	0.025	0.023	0.027	0.98	  1
+Renal	Fr. II eTreg	0.027	0.025	0.029	0.54	  1
+Renal	Fr. III T	0.022	0.02	0.023	  1	  1
+Renal	Naive CD8	0.02	0.019	0.023	  1	  1
+Renal	CM CD8	0.031	0.024	0.037	0.06	  1
+Renal	EM CD8	0.03	0.026	0.035	0.082	  1
+Renal	TEMRA CD8	0.024	0.021	0.027	0.98	  1
+Renal	NK	0.028	0.027	0.031	0.084	  1
+Renal	Naive B	0.02	0.017	0.021	  1	  1
+Renal	USM B	0.0036	0.0031	0.0079	  1	  1
+Renal	SM B	0.014	0.012	0.016	  1	  1
+Renal	DN B	0.012	0.0091	0.014	  1	  1
+Renal	Plasmablast	0.041	0.035	0.044	  0	  0
+Renal	CL Mono	0.054	0.051	0.058	  0	  0
+Renal	CD16p Mono	0.043	0.039	0.047	  0	  0
+Renal	Int Mono	0.047	0.044	0.05	  0	  0
+Renal	NC Mono	0.043	0.039	0.047	  0	  0
+Renal	mDC	0.03	0.027	0.033	0.056	  1
+Renal	pDC	0.017	0.016	0.02	  1	  1
+Renal	Neu	0.068	0.063	0.073	  0	  0
+Renal	LDG	0.07	0.065	0.074	  0	  0
+Extrarenal severe	Naive CD4	5.2e-06	1.6e-11	0.0031	0.99	  1
+Extrarenal severe	Mem CD4	0.011	0.0076	0.013	0.5	  1
+Extrarenal severe	Th1	2e-10	7.8e-12	3.7e-08	  1	  1
+Extrarenal severe	Th2	0.0087	0.0052	0.014	0.91	  1
+Extrarenal severe	Th17	0.013	0.01	0.016	0.03	0.8
+Extrarenal severe	Tfh	0.012	0.0069	0.016	0.13	  1
+Extrarenal severe	Fr. I nTreg	0.0034	0.0019	0.0059	  1	  1
+Extrarenal severe	Fr. II eTreg	0.0095	0.0074	0.012	0.91	  1
+Extrarenal severe	Fr. III T	0.0094	0.006	0.012	0.88	  1
+Extrarenal severe	Naive CD8	0.0038	0.0031	0.0058	  1	  1
+Extrarenal severe	CM CD8	0.0094	0.0047	0.014	0.8	  1
+Extrarenal severe	EM CD8	0.021	0.012	0.031	0.022	0.6
+Extrarenal severe	TEMRA CD8	0.012	0.0072	0.018	0.1	  1
+Extrarenal severe	NK	0.0053	0.0034	0.0082	0.99	  1
+Extrarenal severe	Naive B	0.018	0.015	0.022	0.016	0.42
+Extrarenal severe	USM B	0.018	0.016	0.02	  0	  0
+Extrarenal severe	SM B	0.00023	8.5e-11	0.0016	  1	  1
+Extrarenal severe	DN B	0.0034	0.0025	0.0044	  1	  1
+Extrarenal severe	Plasmablast	0.00023	5.7e-10	0.0018	  1	  1
+Extrarenal severe	CL Mono	0.015	0.0097	0.02	0.03	0.81
+Extrarenal severe	CD16p Mono	0.037	0.031	0.044	  0	  0
+Extrarenal severe	Int Mono	0.024	0.018	0.029	  0	  0
+Extrarenal severe	NC Mono	0.043	0.039	0.049	  0	  0
+Extrarenal severe	mDC	0.023	0.017	0.029	0.008	0.22
+Extrarenal severe	pDC	0.041	0.036	0.047	  0	  0
+Extrarenal severe	Neu	0.036	0.029	0.042	  0	  0
+Extrarenal severe	LDG	0.0035	0.00015	0.006	  1	  1
+Hematological	Naive CD4	0.003	0.0024	0.0035	  1	  1
+Hematological	Mem CD4	0.0011	0.00059	0.0035	  1	  1
+Hematological	Th1	0.0079	0.0068	0.011	0.97	  1
+Hematological	Th2	0.0024	0.0019	0.0058	  1	  1
+Hematological	Th17	0.012	0.011	0.016	0.0074	0.2
+Hematological	Tfh	0.014	0.012	0.016	0.0075	0.2
+Hematological	Fr. I nTreg	0.014	0.013	0.016	0.018	0.47
+Hematological	Fr. II eTreg	0.01	0.0049	0.016	0.58	  1
+Hematological	Fr. III T	0.0049	0.0031	0.0091	0.99	  1
+Hematological	Naive CD8	0.0075	0.0065	0.0081	  1	  1
+Hematological	CM CD8	0.0017	0.00051	0.003	  1	  1
+Hematological	EM CD8	0.0063	0.0025	0.015	0.94	  1
+Hematological	TEMRA CD8	0.041	0.037	0.047	  0	  0
+Hematological	NK	0.077	0.07	0.085	  0	  0
+Hematological	Naive B	0.0093	0.0058	0.012	0.87	  1
+Hematological	USM B	0.0065	0.0052	0.0073	  1	  1
+Hematological	SM B	0.02	0.019	0.023	  0	  0
+Hematological	DN B	0.0067	0.0046	0.01	0.97	  1
+Hematological	Plasmablast	0.033	0.027	0.039	  0	  0
+Hematological	CL Mono	0.026	0.021	0.032	  0	  0
+Hematological	CD16p Mono	0.018	0.014	0.025	0.0075	0.2
+Hematological	Int Mono	0.02	0.015	0.025	  0	  0
+Hematological	NC Mono	0.01	0.0028	0.016	0.73	  1
+Hematological	mDC	0.032	0.024	0.037	  0	  0
+Hematological	pDC	0.0056	0.0025	0.01	0.98	  1
+Hematological	Neu	0.029	0.027	0.035	  0	  0
+Hematological	LDG	0.046	0.038	0.054	  0	  0
+Serological	Naive CD4	0.013	0.012	0.017	  0	  0
+Serological	Mem CD4	0.0078	0.0064	0.01	0.8	  1
+Serological	Th1	0.012	0.0093	0.016	0.015	0.42
+Serological	Th2	0.013	0.01	0.016	0.0078	0.21
+Serological	Th17	0.011	0.0092	0.014	0.015	0.4
+Serological	Tfh	0.023	0.021	0.026	  0	  0
+Serological	Fr. I nTreg	0.0054	0.0031	0.0087	0.96	  1
+Serological	Fr. II eTreg	0.016	0.014	0.019	  0	  0
+Serological	Fr. III T	0.0083	0.0067	0.01	0.63	  1
+Serological	Naive CD8	0.021	0.019	0.024	  0	  0
+Serological	CM CD8	0.0068	0.0037	0.0099	0.85	  1
+Serological	EM CD8	0.014	0.01	0.018	0.0075	0.2
+Serological	TEMRA CD8	0.0065	0.0044	0.0088	0.94	  1
+Serological	NK	0.016	0.013	0.019	  0	  0
+Serological	Naive B	0.0036	0.0021	0.0051	  1	  1
+Serological	USM B	0.0084	0.0073	0.0093	0.55	  1
+Serological	SM B	0.012	0.0099	0.015	  0	  0
+Serological	DN B	0.003	0.0022	0.0055	  1	  1
+Serological	Plasmablast	0.011	0.0075	0.013	0.046	  1
+Serological	CL Mono	0.013	0.01	0.015	  0	  0
+Serological	CD16p Mono	0.0094	0.007	0.012	0.15	  1
+Serological	Int Mono	0.0031	0.0026	0.0046	  1	  1
+Serological	NC Mono	0.0013	0.00027	0.0043	  1	  1
+Serological	mDC	0.0037	0.0019	0.0061	  1	  1
+Serological	pDC	0.0034	0.0018	0.0052	  1	  1
+Serological	Neu	0.0024	0.00041	0.0046	  1	  1
+Serological	LDG	0.0056	0.0028	0.011	0.91	  1
+MMF	Naive CD4	0.0011	0.00081	0.0022	  1	  1
+MMF	Mem CD4	0.018	0.014	0.021	  0	  0
+MMF	Th1	0.082	0.076	0.089	  0	  0
+MMF	Th2	0.03	0.024	0.034	  0	  0
+MMF	Th17	0.0045	0.0019	0.0084	0.81	  1
+MMF	Tfh	0.0091	0.0058	0.013	0.022	0.6
+MMF	Fr. I nTreg	0.002	0.0013	0.0034	0.99	  1
+MMF	Fr. II eTreg	  0	  0	0.0001	  1	  1
+MMF	Fr. III T	0.0019	0.0013	0.0055	0.97	  1
+MMF	Naive CD8	0.0018	0.0011	0.0027	  1	  1
+MMF	CM CD8	0.072	0.067	0.078	  0	  0
+MMF	EM CD8	0.035	0.031	0.041	  0	  0
+MMF	TEMRA CD8	0.0055	0.0032	0.0078	0.53	  1
+MMF	NK	0.0076	0.0056	0.011	0.015	0.41
+MMF	Naive B	0.0024	0.0019	0.0028	0.99	  1
+MMF	USM B	0.0092	0.0082	0.01	  0	  0
+MMF	SM B	0.015	0.011	0.019	  0	  0
+MMF	DN B	0.0079	0.0033	0.013	0.052	  1
+MMF	Plasmablast	0.13	0.12	0.13	  0	  0
+MMF	CL Mono	0.00049	3.4e-10	0.0032	  1	  1
+MMF	CD16p Mono	0.0025	0.00069	0.0052	0.98	  1
+MMF	Int Mono	0.0017	0.0011	0.0026	  1	  1
+MMF	NC Mono	1.8e-09	  0	3.6e-08	  1	  1
+MMF	mDC	0.0023	0.0016	0.0029	  1	  1
+MMF	pDC	0.0082	0.0051	0.012	0.048	  1
+MMF	Neu	0.0069	0.0055	0.0088	0.025	0.68
+MMF	LDG	0.0053	0.0023	0.01	0.49	  1
+TAC	Naive CD4	0.006	0.004	0.0077	0.41	  1
+TAC	Mem CD4	0.0017	0.0012	0.0049	0.99	  1
+TAC	Th1	0.0029	0.0022	0.0036	  1	  1
+TAC	Th2	0.002	0.00052	0.0036	  1	  1
+TAC	Th17	0.0054	0.004	0.0086	0.73	  1
+TAC	Tfh	0.0032	0.0015	0.0053	0.98	  1
+TAC	Fr. I nTreg	0.03	0.026	0.034	  0	  0
+TAC	Fr. II eTreg	0.024	0.019	0.028	  0	  0
+TAC	Fr. III T	0.071	0.066	0.083	  0	  0
+TAC	Naive CD8	0.0022	0.0014	0.0043	  1	  1
+TAC	CM CD8	0.00023	3.5e-10	0.0013	  1	  1
+TAC	EM CD8	0.011	0.0079	0.015	0.015	0.4
+TAC	TEMRA CD8	0.0053	0.004	0.0073	0.83	  1
+TAC	NK	0.017	0.014	0.019	  0	  0
+TAC	Naive B	0.0053	0.0036	0.0065	0.87	  1
+TAC	USM B	0.00098	0.00035	0.0017	  1	  1
+TAC	SM B	0.0092	0.0063	0.013	0.015	0.4
+TAC	DN B	0.017	0.014	0.02	  0	  0
+TAC	Plasmablast	0.01	0.0082	0.013	0.0077	0.21
+TAC	CL Mono	0.0059	0.0045	0.0076	0.5	  1
+TAC	CD16p Mono	0.0093	0.0071	0.012	0.0075	0.2
+TAC	Int Mono	0.014	0.011	0.017	  0	  0
+TAC	NC Mono	0.0099	0.0067	0.012	0.0081	0.22
+TAC	mDC	0.0033	0.0024	0.0041	  1	  1
+TAC	pDC	0.0058	0.0046	0.008	0.54	  1
+TAC	Neu	0.0049	0.0035	0.006	0.95	  1
+TAC	LDG	0.0027	0.0017	0.0038	  1	  1
+HCQ	Naive CD4	0.0028	0.0022	0.0034	  1	  1
+HCQ	Mem CD4	0.017	0.015	0.02	  0	  0
+HCQ	Th1	0.039	0.032	0.045	  0	  0
+HCQ	Th2	0.0045	0.0026	0.0067	0.58	  1
+HCQ	Th17	0.011	0.0089	0.014	  0	  0
+HCQ	Tfh	0.0005	0.00031	0.0019	  1	  1
+HCQ	Fr. I nTreg	0.011	0.0094	0.013	  0	  0
+HCQ	Fr. II eTreg	0.027	0.024	0.03	  0	  0
+HCQ	Fr. III T	0.024	0.02	0.028	  0	  0
+HCQ	Naive CD8	0.0021	0.0015	0.0027	  1	  1
+HCQ	CM CD8	  0	  0	0.00081	  1	  1
+HCQ	EM CD8	0.044	0.04	0.048	  0	  0
+HCQ	TEMRA CD8	0.00046	1.1e-10	0.0025	  1	  1
+HCQ	NK	0.0054	0.0043	0.0067	0.046	  1
+HCQ	Naive B	0.0014	2.9e-09	0.0031	0.99	  1
+HCQ	USM B	0.00039	8.5e-05	0.00096	  1	  1
+HCQ	SM B	0.013	0.01	0.016	  0	  0
+HCQ	DN B	0.01	0.0077	0.013	  0	  0
+HCQ	Plasmablast	1.1e-08	3.1e-11	0.0012	  1	  1
+HCQ	CL Mono	0.0045	0.0028	0.0064	0.52	  1
+HCQ	CD16p Mono	9.5e-11	  0	0.00046	  1	  1
+HCQ	Int Mono	2.6e-11	  0	0.00015	  1	  1
+HCQ	NC Mono	4.7e-11	  0	8.3e-09	  1	  1
+HCQ	mDC	0.00072	4e-11	0.0015	  1	  1
+HCQ	pDC	0.012	0.0081	0.015	  0	  0
+HCQ	Neu	0.0059	0.0038	0.0083	0.075	  1
+HCQ	LDG	6.6e-09	  0	1e-07	  1	  1
+PSL	Naive CD4	0.012	0.011	0.014	0.73	  1
+PSL	Mem CD4	0.012	0.011	0.014	0.87	  1
+PSL	Th1	0.0026	0.0022	0.0032	  1	  1
+PSL	Th2	0.0072	0.0064	0.0089	  1	  1
+PSL	Th17	0.0044	0.004	0.0056	  1	  1
+PSL	Tfh	0.011	0.011	0.013	0.99	  1
+PSL	Fr. I nTreg	0.017	0.016	0.019	  0	  0
+PSL	Fr. II eTreg	0.016	0.015	0.018	0.0079	0.21
+PSL	Fr. III T	0.04	0.037	0.043	  0	  0
+PSL	Naive CD8	0.027	0.024	0.029	  0	  0
+PSL	CM CD8	0.0051	0.0042	0.0061	  1	  1
+PSL	EM CD8	0.0016	0.0014	0.0024	  1	  1
+PSL	TEMRA CD8	0.0095	0.0083	0.011	0.99	  1
+PSL	NK	0.0078	0.0073	0.0085	  1	  1
+PSL	Naive B	0.02	0.018	0.022	  0	  0
+PSL	USM B	0.014	0.012	0.015	0.039	  1
+PSL	SM B	0.016	0.014	0.018	0.0074	0.2
+PSL	DN B	0.024	0.021	0.026	  0	  0
+PSL	Plasmablast	0.008	0.007	0.0093	  1	  1
+PSL	CL Mono	0.01	0.0094	0.012	0.98	  1
+PSL	CD16p Mono	0.026	0.025	0.028	  0	  0
+PSL	Int Mono	0.013	0.012	0.014	0.31	  1
+PSL	NC Mono	0.02	0.019	0.021	  0	  0
+PSL	mDC	0.011	0.0097	0.012	0.99	  1
+PSL	pDC	0.018	0.017	0.02	  0	  0
+PSL	Neu	0.025	0.022	0.028	  0	  0
+PSL	LDG	0.038	0.034	0.044	  0	  0

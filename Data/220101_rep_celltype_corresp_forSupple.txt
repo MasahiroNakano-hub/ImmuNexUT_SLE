@@ -1,0 +1,28 @@
+ImmuNexUT	Cohort 1	Cohort 2	Cohort 3
+Naive CD4	T	Naive CD4	CD4
+Mem CD4	NA	Mem CD4	NA
+Th1	NA	Th1	NA
+Th2	NA	Th2	NA
+Th17	NA	Th17	NA
+Tfh	NA	Tfh	NA
+Fr. I nTreg	NA	NA	NA
+Fr. II eTreg	NA	Fr. II eTreg	NA
+Fr. III T	NA	NA	NA
+Naive CD8	NA	Naive CD8	NA
+CM CD8	NA	NA	NA
+EM CD8	NA	Mem CD8	NA
+TEMRA CD8	NA	NA	NA
+NK	NA	NK	NK
+Naive B	B	Naive B	B
+USM B	NA	USM B	NA
+SM B	NA	SM B	NA
+DN B	NA	DN B	NA
+Plasmablast	NA	Plasmablast	NA
+CL Mono	CL Mono	CL Mono	Mono
+CD16p Mono	NA	CD16p Mono	NA
+Int Mono	NA	NA	NA
+NC Mono	NA	NA	NA
+mDC	mDC	mDC	NA
+pDC	pDC	pDC	NA
+Neu	Neu	NA	NA
+LDG	NA	NA	NA
