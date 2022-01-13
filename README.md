@@ -13,7 +13,7 @@ Reference: Nakano M et al. Cell-type-specific transcriptome architecture underly
 4. However, disease-activity signatures were less enriched around SLE risk variants than disease-state signatures, suggesting that the genetic studies to date may not well capture clinically vital biology in SLE.
 
 
-# Data availability
-All analysis results including DEG list and PC loading scores are available as supplementary data in the paper or in this page. RNA-seq data used in this study will be available at the National Bioscience Database Center (NBDC) Human Database upon publication.
+## Data availability
+All analysis results including DEG list and PC loading scores are available as supplementary data in the paper. RNA-seq data used in this study will be available at the National Bioscience Database Center (NBDC) Human Database upon publication.
 
 
