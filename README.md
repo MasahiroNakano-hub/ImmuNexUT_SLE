@@ -12,7 +12,6 @@ We conducted a large-scale transcriptome study with 6,386 RNA sequencing data co
 
 4. However, disease-activity signatures were less enriched around SLE risk variants than disease-state signatures, suggesting that the genetic studies to date may not well capture clinically vital biology in SLE.
 
-![image](./Data/Fig1.png)
 **Figure 1. Overview of this study.**
 We profiled 6,386 RNA sequencing data of 27 immune cell types from peripheral blood in HC and SLE patients (left). We identified two distinct categories of disease-relevant signatures in a cell-type-specific manner (middle), and then performed extensive downstream analyses (i-v).
 
