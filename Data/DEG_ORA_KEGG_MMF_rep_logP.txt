@@ -1,0 +1,7 @@
+Description	pvalue	subset	type
+Oxidative phosphorylation	1.24403429754298e-12	A05_PB	MMF
+Cell cycle	0.00201614810760412	A05_PB	MMF
+Cell cycle	1.45088390210406e-14	B01_Th1	MMF
+Oxidative phosphorylation	0.152619233216338	B01_Th1	MMF
+Oxidative phosphorylation	2.4146993400786e-37	C04_CmCD8	MMF
+Cell cycle	6.11725023197836e-10	C04_CmCD8	MMF
