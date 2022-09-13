@@ -1,7 +1,7 @@
 # Overview
-We conducted a large-scale transcriptome study with 6,386 RNA sequencing data covering 27 immune cell types from 159 SLE and 89 healthy donors.
+We conducted a large-scale transcriptome study with 6,386 RNA sequencing data covering 27 immune cell types from 136 unique SLE (+ 22 post-Belimumab) and 89 healthy donors.
 
-**Reference (preprint): Nakano M et al. Cell-type-specific transcriptome architecture underlying the establishment and exacerbation of systemic lupus erythematosus. MedRxiv 2022 (doi: https://doi.org/10.1101/2022.01.12.22269137)**
+**Reference: Nakano M et al. Distinct transcriptome architectures underlying lupus establishment and exacerbation. Cell 2022 (doi: https://doi.org/10.1016/j.cell.2022.07.021)**
 
 ## Main findings
 - We first profiled two distinct cell-type-specific transcriptomic signatures: disease-state and disease-activity signatures, reflecting disease establishment and exacerbation, respectively.
@@ -18,6 +18,6 @@ We profiled 6,386 RNA sequencing data of 27 immune cell types from peripheral bl
 
 
 ## Data availability
-All analysis results including DEG list and PC loading scores are available as supplementary data in the paper. RNA-seq data used in this study will be available at the National Bioscience Database Center (NBDC) Human Database upon publication.
+All analysis results including DEG list and PC loading scores are available as supplementary data in the paper. RNA-seq data used in this study are available at the National Bioscience Database Center (NBDC) Human Database.
 
 
